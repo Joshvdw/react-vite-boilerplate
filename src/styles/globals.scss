@@ -1,0 +1,21 @@
+// IMPORTS
+@import "./fonts", "./variables";
+
+// RESETS
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+// GLOBAL STYLES 
+h1 {
+  text-transform: uppercase;
+}
